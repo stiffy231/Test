@@ -11,3 +11,15 @@
 /build
 /captures
 .externalNativeBuild
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+app/.gitignore
+app/build.gradle
+build.gradle
+gradle.properties
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+settings.gradle
